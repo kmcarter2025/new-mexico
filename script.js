@@ -1,3 +1,4 @@
+// Add this content to your script.js file
 document.addEventListener("DOMContentLoaded", function() {
     // Highlight the current section in navbar
     const navbar = document.getElementById('navbar');
